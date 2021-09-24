@@ -32,10 +32,10 @@ body {
     display: none; 
 }
 
-.description.-showdDescription {
+.-showdDescription {
     display: inline-block;
 }
 
-.photo-card.-open{
-    height:680px;
+.-open{
+    height: 680px;
 }
